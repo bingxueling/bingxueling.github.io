@@ -1,1 +1,1 @@
-# [art on web](http://www.artonweb.cn/ArtOnWeb/)
+# [Visit the sample site of ArtOnWeb](http://www.artonweb.cn/ArtOnWeb/)
